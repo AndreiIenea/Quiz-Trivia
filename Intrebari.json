@@ -1,0 +1,61 @@
+{
+    "questions": [
+        {
+            "question": " În ce an s-a născut Regele Mihai I?",
+            "options": ["a) Anul 1702", "b) Anul 1921", "c) Anul 1920", "d) Anul 1930"],
+            "correct": "b"
+        },
+        {
+            "question": "În ce oraș au fost executați soții Ceaușescu?",
+            "options": ["a) Iasi", "b) Timisoara", "c) Târgoviște", "d) Bucuresti"],
+            "correct": "c"
+        },
+        {
+            "question": "Care este cel mai lung fluviu din lume?",
+            "options": ["a) Amazon", "b) Nil", "c) Yangtze", "d) Mississippi"],
+            "correct": "a"
+        },
+        {
+            "question": "Câte strofe are poezia “Luceafărul” de Mihai Eminescu?",
+            "options": ["a) 100 de strofe", "b) 90 de strofe", "c) 9 de strofe", "d) 98 de strofe"],
+            "correct": "d"
+        },
+        {
+            "question": "Danemarca are capitala?",
+            "options": ["a) Paris", "b) Budapesta", "c) Copenhaga", "d) Zagreb"],
+            "correct": "c"
+        },
+        {
+            "question": "Cine a scris “Enigma Otilei”?",
+            "options": ["a) George Călinescu", "b) Marin Sorescu", "c) Mihai Eminescu", "d) Liviu Rebreanu"],
+            "correct": "a"
+        },
+        {
+            "question": "Câte zile are un an bisect?",
+            "options": ["a) 256 de zile", "b) 360 de zile", "c) 366 de zile", "d) 300 de zile"],
+            "correct": "c"
+        },
+        {
+            "question": "Cine a inventat stiloul?",
+            "options": ["a) Giuseppe Verdi", "b) Thomas Edison", "c) Arhimede", "d) Petrache Poenaru"],
+            "correct": "d"
+        },
+        {
+            "question": "În ce organ se află coardele vocale la om?",
+            "options": ["a) Stomac", "b)  Laringe", "c) Ficat", "d) Inima"],
+            "correct": "b"
+        },
+        {
+            "question": "Care este formula chimică a apei?",
+            "options": ["a) H2O", "b) CH3", "c) CuCO3", "d) MgCO3"],
+            "correct": "a"
+        },
+        {
+            "question": "Câte laturi egale are un triunghi isoscel?",
+            "options": ["a) 3 laturi egale", "b) 1 laturi egale", "c) 2 laturi egale", "d) 0 laturi egale"],
+            "correct": "c"
+        }
+
+    ],
+    "scores": []
+}
